@@ -1,0 +1,4 @@
+#dont add bat files
+*.bat
+
+*.vcx*
