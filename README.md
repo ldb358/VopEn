@@ -1,5 +1,8 @@
-#VopEn: An open source video editing software
+###VopEn:  
+An open source video editing software
 
-#developers: Ldb358
+###Developers:  
+Ldb358
 
-#status: Just started
+###Status:  
+Just started

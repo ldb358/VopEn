@@ -1,4 +1,6 @@
 #dont add bat files
 *.bat
-
+#dont add visual studio files
 *.vcx*
+#dont add debug info since it is for windows only
+debug/*
